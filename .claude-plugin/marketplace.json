@@ -1,0 +1,14 @@
+{
+  "name": "remixpartners",
+  "owner": {
+    "name": "Remix Partners"
+  },
+  "description": "Plugins from Remix Partners for the S2G AI Roundtable.",
+  "plugins": [
+    {
+      "name": "ai-roundtable-intern",
+      "source": "./",
+      "description": "Helps you get ready for each S2G AI Roundtable session by keeping a short company card and a share plan. It never sends, uploads or fetches anything."
+    }
+  ]
+}

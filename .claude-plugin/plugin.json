@@ -1,0 +1,14 @@
+{
+  "name": "ai-roundtable-intern",
+  "displayName": "AI roundtable intern",
+  "version": "2026.11.2",
+  "description": "Helps you get ready for each S2G AI Roundtable session by keeping a short company card and a share plan. It never sends, uploads or fetches anything.",
+  "author": {
+    "name": "Remix Partners",
+    "url": "https://github.com/remixpartners"
+  },
+  "homepage": "https://github.com/remixpartners/ai-roundtable-intern",
+  "repository": "https://github.com/remixpartners/ai-roundtable-intern",
+  "keywords": ["s2g", "ai-roundtable", "remix-partners", "prep"],
+  "skills": ["./ai-roundtable-intern"]
+}

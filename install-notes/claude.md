@@ -25,3 +25,13 @@ Your company may have turned off personal uploads. Two ways forward:
 
 ## If the upload is rejected
 Unzip the file, open the ai-roundtable-intern folder, and upload the file SKILL.md instead. If that fails too, use the paste fallback note we included.
+
+## Add it to Claude Code as a plugin
+This repository is also a Claude Code plugin marketplace. In Claude Code, run these two commands:
+
+```
+/plugin marketplace add kulikulifoods/ai-roundtable-intern
+/plugin install ai-roundtable-intern@remixpartners
+```
+
+The plugin holds the same single file, ai-roundtable-intern/SKILL.md, and nothing else. The two small files in the .claude-plugin folder only tell Claude Code the plugin's name, version and where that file is. To remove it, run `/plugin uninstall ai-roundtable-intern@remixpartners`.

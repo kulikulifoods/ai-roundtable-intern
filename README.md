@@ -23,7 +23,7 @@ Read it before you install it. Everything the assistant will follow is in that o
 
 Pick the note for your assistant and follow the steps:
 
-- [Claude](install-notes/claude.md)
+- [Claude](install-notes/claude.md), including Claude Code as a plugin
 - [ChatGPT](install-notes/chatgpt.md)
 - [Microsoft 365 Copilot](install-notes/copilot.md)
 - [Gemini](install-notes/gemini.md)
