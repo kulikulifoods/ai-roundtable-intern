@@ -25,3 +25,13 @@ Your company may have turned off personal uploads. Two ways forward:
 
 ## If the upload is rejected
 Unzip the file, open the ai-roundtable-intern folder, and upload the file SKILL.md instead. If that fails too, use the paste fallback note we included.
+
+## Add it to Claude Code as a plugin
+This repository is also a Claude Code plugin marketplace. In Claude Code, run these two commands:
+
+```
+/plugin marketplace add remixpartners/ai-roundtable-intern
+/plugin install s2g-ai-roundtable@remixpartners-s2g-ai-roundtable
+```
+
+The marketplace is called Remix Partners - S2G AI Roundtable and the plugin is called S2G AI Roundtable. The plugin holds the same single file, ai-roundtable-intern/SKILL.md, and nothing else. The two small files in the .claude-plugin folder only tell Claude Code the plugin's name, version and where that file is. Once it is installed, start it as before, or type /s2g-ai-roundtable:ai-roundtable-intern. To remove it, run `/plugin uninstall s2g-ai-roundtable@remixpartners-s2g-ai-roundtable`.

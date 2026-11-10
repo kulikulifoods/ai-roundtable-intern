@@ -1,0 +1,15 @@
+{
+  "name": "remixpartners-s2g-ai-roundtable",
+  "owner": {
+    "name": "Remix Partners"
+  },
+  "description": "Remix Partners - S2G AI Roundtable. Plugins from Remix Partners for the S2G AI Roundtable.",
+  "plugins": [
+    {
+      "name": "s2g-ai-roundtable",
+      "source": "./",
+      "description": "Prep helpers for the S2G AI Roundtable, including the ai-roundtable-intern skill.",
+      "displayName": "S2G AI Roundtable"
+    }
+  ]
+}
