@@ -30,7 +30,7 @@ Unzip the file, open the ai-roundtable-intern folder, and upload the file SKILL.
 This repository is also a Claude Code plugin marketplace. In Claude Code, run these two commands:
 
 ```
-/plugin marketplace add kulikulifoods/ai-roundtable-intern
+/plugin marketplace add remixpartners/ai-roundtable-intern
 /plugin install ai-roundtable-intern@remixpartners
 ```
 
