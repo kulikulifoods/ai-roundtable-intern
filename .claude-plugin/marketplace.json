@@ -1,14 +1,15 @@
 {
-  "name": "remixpartners",
+  "name": "remixpartners-s2g-ai-roundtable",
   "owner": {
     "name": "Remix Partners"
   },
-  "description": "Plugins from Remix Partners for the S2G AI Roundtable.",
+  "description": "Remix Partners - S2G AI Roundtable. Plugins from Remix Partners for the S2G AI Roundtable.",
   "plugins": [
     {
-      "name": "ai-roundtable-intern",
+      "name": "s2g-ai-roundtable",
       "source": "./",
-      "description": "Helps you get ready for each S2G AI Roundtable session by keeping a short company card and a share plan. It never sends, uploads or fetches anything."
+      "description": "Prep helpers for the S2G AI Roundtable, including the ai-roundtable-intern skill.",
+      "displayName": "S2G AI Roundtable"
     }
   ]
 }
